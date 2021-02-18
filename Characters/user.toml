@@ -1,5 +1,0 @@
-include=["cars"]
-exclude=["c","car"]
-notes='''
-These are MY cars.
-'''
